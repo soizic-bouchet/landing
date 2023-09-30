@@ -1,0 +1,8 @@
+.link-blue {
+	color: #1995B3;
+	font-weight: bold;
+}
+
+.link-blue:hover {
+	color: #76e026;
+}
